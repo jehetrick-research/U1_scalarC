@@ -1,0 +1,19 @@
+30 March 2017
+
+in STO/
+
+Copied u1.c_dynmem to pureU1.c.
+This should be "good" pure gauge U(1) code.
+
+* Need to test it with a beta loop and look at plaquette. Compare with known results.
+
+Unpacked u1twist_ into TEST/
+* had to add /copy u1includes.h into TEST/
+
+* Need to reproduce pure gauge result with w=0.
+However, z=0 plane is fixed with no update, so skews <plaq>.
+
+* could write a <PLAQ> measurement that excludes the flux plane
+
+
+*need to reproduce mag  results

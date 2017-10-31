@@ -1,0 +1,17 @@
+# Ignore these files:
+
+# code:
+#------
+
+*.o
+*~
+
+# output:
+#--------
+
+out.*
+
+# lattices:
+#----------
+
+*.lat
