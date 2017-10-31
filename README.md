@@ -18,7 +18,8 @@ pureU1 command line options (defaults):
         -init [cold, hot, or file filename] (cold)
 ```
 
-Used this project to reproduce DeGrand and Toussaint, Phys Rev. D22, 2478 (1980).
+Used this project to reproduce 
+[DeGrand and Toussaint, Phys Rev. D22, 2478 (1980)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.22.2478).
 
 Includes addition of flux via twisted BCs.
 

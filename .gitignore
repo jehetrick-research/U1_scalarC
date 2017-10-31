@@ -15,3 +15,31 @@ out.*
 #----------
 
 *.lat
+
+# other stuff:
+#-------------
+
+Recbin/
+STO/
+Twist/
+Twisttests/
+data.plaq
+data.plaq2
+data.txt
+equilb08.txt
+pureU1
+pureU1.c_24oct17
+randlist
+rlist.txt
+stapletest
+test2.lat.info
+testmalloc
+testmalloc.c
+testmyr
+testmyr.c
+u1
+u1loop.dat
+u1r
+u1twist
+zap
+zzz
